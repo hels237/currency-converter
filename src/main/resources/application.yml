@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: currency_converter
+
+exchangerate:
+  api:
+    key: 49439729ed901acdbc891f45
+    base-url: https://v6.exchangerate-api.com/v6/
