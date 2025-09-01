@@ -8,7 +8,7 @@
 		<version>3.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ngaland</groupId>
+	<groupId>com.k48</groupId>
 	<artifactId>currency_converter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>currency_converter</name>
